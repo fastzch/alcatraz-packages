@@ -2,6 +2,11 @@
   "packages": {
     "plugins": [
     {
+  	 "name": "QuickDeletePlugin",
+  	 "url": "https://github.com/fastzch/QuickDeletePlugin",
+  	 "description": "Quick delete line(s) as Eclipse."
+	},
+    {
       "name": "ExportConsoleText",
       "url": "https://github.com/iException/ExportConsoleText",
       "description": "Exporting xcode console text to html file.",
