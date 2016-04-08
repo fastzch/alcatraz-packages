@@ -4,7 +4,8 @@
     {
   	 "name": "QuickDeletePlugin",
   	 "url": "https://github.com/fastzch/QuickDeletePlugin",
-  	 "description": "Quick delete line(s) as Eclipse."
+  	 "description": "Quick delete line(s) as Eclipse.",
+  	 "screenshot": "http://www.mxzhang.com/imgs/sample_screenshot_delete.gif"
 	},
     {
       "name": "ExportConsoleText",
